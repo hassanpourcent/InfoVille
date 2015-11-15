@@ -1,4 +1,4 @@
-Symfony
+InfoVille
 =======
 
-A Symfony project created on October 5, 2015, 9:08 am.
+Blog created by Bemat Souhel & Gull Hassan 2015
